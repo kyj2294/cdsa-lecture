@@ -1,0 +1,4 @@
+interface:
+  display_name: "cdsappt"
+  short_description: "사용자 PPT 코퍼스를 CDSA 레이아웃에 편집 가능하게 배치"
+  default_prompt: "$cdsappt를 사용해 내가 색인한 강의 자료에서 적합한 본문·표·도식을 찾고 CDSA 단일 마스터의 레이아웃에 배치해 편집 가능한 강의안을 만들어줘."

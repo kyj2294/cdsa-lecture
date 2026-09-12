@@ -1,0 +1,24 @@
+{
+  "name": "cdsa-lecture",
+  "version": "0.3.0",
+  "description": "사용자 소유 PPT 코퍼스에서 편집 가능한 본문을 찾아 CDSA 단일 마스터에 배치하는 PowerPoint 강의안 제작 도구",
+  "author": {
+    "name": "CDSA"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "cdsappt",
+    "shortDescription": "CDSA 단일 마스터 기반 편집 가능한 PowerPoint 강의안 제작",
+    "longDescription": "교육 목적과 대상을 파악하고 사용자가 색인한 PPT 코퍼스에서 본문·표·도식을 찾아 13개 CDSA 레이아웃의 안전 영역에 편집 가능한 개체로 배치합니다. 적합한 자료가 없으면 같은 레이아웃 안에서 새 장표를 만듭니다.",
+    "developerName": "CDSA",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "내가 만들고 싶은 강의안의 목적, 대상, 시간과 제공 자료를 먼저 파악하고 결과에 필요한 정보만 추가로 질문해줘.",
+      "내가 색인한 PPT 코퍼스에서 적합한 본문·표·도식을 찾아 CDSA 레이아웃에 편집 가능한 개체로 배치해줘."
+    ]
+  }
+}

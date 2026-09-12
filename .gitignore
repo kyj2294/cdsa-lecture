@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.sqlite
+*.sqlite-*
+*.db
+*.building.sqlite
+.DS_Store
+Thumbs.db
+runs/
+output/
+delivery/
+renders/
+release/
+*.log

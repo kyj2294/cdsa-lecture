@@ -1,0 +1,18 @@
+{
+  "source_file_id": 21,
+  "source_page": 1,
+  "source_title": "2026년 제주보수교육 강의안_최종.pptx",
+  "sha256": "b698a7871ac5066b0e7e71cfe880e230d56b66c9586270d193071f230c764ebe",
+  "reused_ids": [
+    14,
+    19,
+    3,
+    5,
+    30
+  ],
+  "changes": [
+    "center capsule text inside native shape",
+    "separate 15 percent contrast overlay",
+    "opaque 24pt subtitle for readability"
+  ]
+}

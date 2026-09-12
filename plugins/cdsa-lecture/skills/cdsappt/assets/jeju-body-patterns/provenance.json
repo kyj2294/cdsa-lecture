@@ -1,0 +1,22 @@
+{
+  "source_filename": "2026년 제주보수교육 강의안_최종.pptx",
+  "sha256": "bf6cc62fc1bc55a97786cc3ae0d0d16e1e943de1b745bf6cb1caee020f2257e9",
+  "patterns": [
+    {
+      "asset": "table-18.xml",
+      "page": 18,
+      "layout": 3
+    },
+    {
+      "asset": "comparison-51.xml",
+      "page": 51,
+      "layout": 1
+    },
+    {
+      "asset": "workflow-62.xml",
+      "page": 62,
+      "layout": 1
+    }
+  ],
+  "source_path_required": false
+}

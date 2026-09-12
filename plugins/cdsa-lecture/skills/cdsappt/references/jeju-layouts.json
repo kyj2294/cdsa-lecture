@@ -1,0 +1,5089 @@
+[
+  {
+    "id": 1,
+    "name": "1_제목 슬라이드",
+    "part": "ppt/slideLayouts/slideLayout1.xml",
+    "shapes": [
+      {
+        "name": "",
+        "id": "1",
+        "kind": "nvGrpSpPr",
+        "placeholder": null,
+        "transform_inches": {},
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "그림 2",
+        "id": "3",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": -0.35119,
+            "y": -0.16307
+          },
+          "ext": {
+            "cx": 2.17076,
+            "cy": 2.17076
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "날짜 개체 틀 3",
+        "id": "4",
+        "kind": "sp",
+        "placeholder": {
+          "type": "dt",
+          "sz": "half",
+          "idx": "10"
+        },
+        "transform_inches": {},
+        "text": [
+          "2026-09-09"
+        ],
+        "run_properties": [
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "smtClean": "0"
+          }
+        ],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "바닥글 개체 틀 4",
+        "id": "5",
+        "kind": "sp",
+        "placeholder": {
+          "type": "ftr",
+          "sz": "quarter",
+          "idx": "11"
+        },
+        "transform_inches": {},
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "슬라이드 번호 개체 틀 5",
+        "id": "6",
+        "kind": "sp",
+        "placeholder": {
+          "type": "sldNum",
+          "sz": "quarter",
+          "idx": "12"
+        },
+        "transform_inches": {},
+        "text": [
+          "‹#›"
+        ],
+        "run_properties": [
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "smtClean": "0"
+          }
+        ],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "직사각형 12",
+        "id": "13",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": -0.0,
+            "y": 7.4552
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 0.05
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "tx1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "lt1"
+          }
+        ]
+      },
+      {
+        "name": "직사각형 18",
+        "id": "19",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.0,
+            "y": -0.0433
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 0.49999
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "tx1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "lt1"
+          }
+        ]
+      },
+      {
+        "name": "Picture 2",
+        "id": "21",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.85326,
+            "y": -0.84702
+          },
+          "ext": {
+            "cx": 0.48132,
+            "cy": 2.18715
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "FFFFFF"
+          }
+        ]
+      },
+      {
+        "name": "TextBox 1",
+        "id": "2",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.42135,
+            "y": 0.0868
+          },
+          "ext": {
+            "cx": 3.22571,
+            "cy": 0.24908
+          }
+        },
+        "text": [
+          "2026",
+          "년 ",
+          "AI ",
+          "챔피언 고급과정 ",
+          "인증자",
+          " ",
+          "1",
+          "차 보수교육"
+        ],
+        "run_properties": [
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0",
+            "err": "1"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          }
+        ],
+        "fonts": [
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          }
+        ],
+        "colors": [
+          {
+            "val": "FFC000"
+          },
+          {
+            "val": "FFC000"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          }
+        ]
+      },
+      {
+        "name": "그림 9",
+        "id": "10",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 10.84532,
+            "y": 0.07352
+          },
+          "ext": {
+            "cx": 0.95237,
+            "cy": 0.26922
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "Picture 4",
+        "id": "11",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 11.92511,
+            "y": 0.01585
+          },
+          "ext": {
+            "cx": 1.22806,
+            "cy": 0.38169
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "FFFFFF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "3_제목 슬라이드",
+    "part": "ppt/slideLayouts/slideLayout2.xml",
+    "shapes": [
+      {
+        "name": "",
+        "id": "1",
+        "kind": "nvGrpSpPr",
+        "placeholder": null,
+        "transform_inches": {},
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "그림 6",
+        "id": "7",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": -0.35932,
+            "y": 1.05739
+          },
+          "ext": {
+            "cx": 2.17076,
+            "cy": 2.17076
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "직사각형 16",
+        "id": "17",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.0,
+            "y": 0.16348
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 1.57819
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "tx1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "lt1"
+          }
+        ]
+      },
+      {
+        "name": "날짜 개체 틀 3",
+        "id": "4",
+        "kind": "sp",
+        "placeholder": {
+          "type": "dt",
+          "sz": "half",
+          "idx": "10"
+        },
+        "transform_inches": {},
+        "text": [
+          "2026-09-09"
+        ],
+        "run_properties": [
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "smtClean": "0"
+          }
+        ],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "바닥글 개체 틀 4",
+        "id": "5",
+        "kind": "sp",
+        "placeholder": {
+          "type": "ftr",
+          "sz": "quarter",
+          "idx": "11"
+        },
+        "transform_inches": {},
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "슬라이드 번호 개체 틀 5",
+        "id": "6",
+        "kind": "sp",
+        "placeholder": {
+          "type": "sldNum",
+          "sz": "quarter",
+          "idx": "12"
+        },
+        "transform_inches": {},
+        "text": [
+          "‹#›"
+        ],
+        "run_properties": [
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "smtClean": "0"
+          }
+        ],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "직사각형 12",
+        "id": "13",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": -0.0,
+            "y": 7.4552
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 0.05
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "tx1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "lt1"
+          }
+        ]
+      },
+      {
+        "name": "직사각형 18",
+        "id": "19",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": -0.0,
+            "y": 0.0
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 0.49999
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "tx1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "lt1"
+          }
+        ]
+      },
+      {
+        "name": "직선 연결선 19",
+        "id": "20",
+        "kind": "cxnSp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.0,
+            "y": 1.68056
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 0.0
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "bg2"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "tx1"
+          }
+        ]
+      },
+      {
+        "name": "Picture 2",
+        "id": "21",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.85326,
+            "y": -0.84702
+          },
+          "ext": {
+            "cx": 0.48132,
+            "cy": 2.18715
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "FFFFFF"
+          }
+        ]
+      },
+      {
+        "name": "Picture 4",
+        "id": "18",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": -0.0,
+            "y": 0.49479
+          },
+          "ext": {
+            "cx": 4.93371,
+            "cy": 1.18697
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "FFFFFF"
+          }
+        ]
+      },
+      {
+        "name": "직사각형 2",
+        "id": "3",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 1.49505,
+            "y": 0.72277
+          },
+          "ext": {
+            "cx": 11.83828,
+            "cy": 0.76237
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "tx2"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "lt1"
+          }
+        ]
+      },
+      {
+        "name": "그림 8",
+        "id": "9",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": -0.0,
+            "y": 0.71205
+          },
+          "ext": {
+            "cx": 3.64584,
+            "cy": 0.7534
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "accent4"
+          }
+        ]
+      },
+      {
+        "name": "TextBox 1",
+        "id": "2",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.42135,
+            "y": 0.11593
+          },
+          "ext": {
+            "cx": 3.22571,
+            "cy": 0.24908
+          }
+        },
+        "text": [
+          "2026",
+          "년 ",
+          "AI ",
+          "챔피언 고급과정 ",
+          "인증자",
+          " ",
+          "1",
+          "차 보수교육"
+        ],
+        "run_properties": [
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0",
+            "err": "1"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          }
+        ],
+        "fonts": [
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          }
+        ],
+        "colors": [
+          {
+            "val": "FFC000"
+          },
+          {
+            "val": "FFC000"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          }
+        ]
+      },
+      {
+        "name": "그림 11",
+        "id": "12",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 10.84532,
+            "y": 0.1013
+          },
+          "ext": {
+            "cx": 0.95237,
+            "cy": 0.26922
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "Picture 4",
+        "id": "14",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 11.92511,
+            "y": 0.04363
+          },
+          "ext": {
+            "cx": 1.22806,
+            "cy": 0.38169
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "FFFFFF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "4_제목 슬라이드",
+    "part": "ppt/slideLayouts/slideLayout3.xml",
+    "shapes": [
+      {
+        "name": "",
+        "id": "1",
+        "kind": "nvGrpSpPr",
+        "placeholder": null,
+        "transform_inches": {},
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "그림 2",
+        "id": "3",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": -0.35932,
+            "y": 1.05739
+          },
+          "ext": {
+            "cx": 2.17076,
+            "cy": 2.17076
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "직사각형 10",
+        "id": "11",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 1.49505,
+            "y": 0.72277
+          },
+          "ext": {
+            "cx": 11.83828,
+            "cy": 0.76237
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "lt1"
+          }
+        ]
+      },
+      {
+        "name": "날짜 개체 틀 3",
+        "id": "4",
+        "kind": "sp",
+        "placeholder": {
+          "type": "dt",
+          "sz": "half",
+          "idx": "10"
+        },
+        "transform_inches": {},
+        "text": [
+          "2026-09-09"
+        ],
+        "run_properties": [
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "smtClean": "0"
+          }
+        ],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "바닥글 개체 틀 4",
+        "id": "5",
+        "kind": "sp",
+        "placeholder": {
+          "type": "ftr",
+          "sz": "quarter",
+          "idx": "11"
+        },
+        "transform_inches": {},
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "슬라이드 번호 개체 틀 5",
+        "id": "6",
+        "kind": "sp",
+        "placeholder": {
+          "type": "sldNum",
+          "sz": "quarter",
+          "idx": "12"
+        },
+        "transform_inches": {},
+        "text": [
+          "‹#›"
+        ],
+        "run_properties": [
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "smtClean": "0"
+          }
+        ],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "직사각형 12",
+        "id": "13",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": -0.0,
+            "y": 7.4552
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 0.05
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "tx1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "lt1"
+          }
+        ]
+      },
+      {
+        "name": "직사각형 16",
+        "id": "17",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.0,
+            "y": 0.16348
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 1.57819
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "tx1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "lt1"
+          }
+        ]
+      },
+      {
+        "name": "직사각형 18",
+        "id": "19",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": -0.0,
+            "y": 0.0
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 0.49999
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "tx1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "lt1"
+          }
+        ]
+      },
+      {
+        "name": "직선 연결선 19",
+        "id": "20",
+        "kind": "cxnSp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.0,
+            "y": 1.68056
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 0.0
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "bg2"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "tx1"
+          }
+        ]
+      },
+      {
+        "name": "Picture 2",
+        "id": "21",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.85326,
+            "y": -0.84702
+          },
+          "ext": {
+            "cx": 0.48132,
+            "cy": 2.18715
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "FFFFFF"
+          }
+        ]
+      },
+      {
+        "name": "Picture 4",
+        "id": "18",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": -0.0,
+            "y": 0.49479
+          },
+          "ext": {
+            "cx": 4.93371,
+            "cy": 1.18697
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "FFFFFF"
+          }
+        ]
+      },
+      {
+        "name": "그림 7",
+        "id": "8",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": -0.0,
+            "y": 0.71205
+          },
+          "ext": {
+            "cx": 3.64584,
+            "cy": 0.7534
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "그림 1",
+        "id": "2",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.34948,
+            "y": 0.78461
+          },
+          "ext": {
+            "cx": 0.61639,
+            "cy": 0.61639
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "TextBox 6",
+        "id": "7",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.42135,
+            "y": 0.11593
+          },
+          "ext": {
+            "cx": 3.22571,
+            "cy": 0.24908
+          }
+        },
+        "text": [
+          "2026",
+          "년 ",
+          "AI ",
+          "챔피언 고급과정 ",
+          "인증자",
+          " ",
+          "1",
+          "차 보수교육"
+        ],
+        "run_properties": [
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0",
+            "err": "1"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          }
+        ],
+        "fonts": [
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          }
+        ],
+        "colors": [
+          {
+            "val": "FFC000"
+          },
+          {
+            "val": "FFC000"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          }
+        ]
+      },
+      {
+        "name": "그림 13",
+        "id": "14",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 10.84532,
+            "y": 0.1013
+          },
+          "ext": {
+            "cx": 0.95237,
+            "cy": 0.26922
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "Picture 4",
+        "id": "15",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 11.92511,
+            "y": 0.04363
+          },
+          "ext": {
+            "cx": 1.22806,
+            "cy": 0.38169
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "FFFFFF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "2_제목 슬라이드",
+    "part": "ppt/slideLayouts/slideLayout4.xml",
+    "shapes": [
+      {
+        "name": "",
+        "id": "1",
+        "kind": "nvGrpSpPr",
+        "placeholder": null,
+        "transform_inches": {},
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "직사각형 1",
+        "id": "2",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.0,
+            "y": 1.68056
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 5.79965
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "tx1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "lt1"
+          }
+        ]
+      },
+      {
+        "name": "그림 2",
+        "id": "3",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": -0.35932,
+            "y": 1.05739
+          },
+          "ext": {
+            "cx": 2.17076,
+            "cy": 2.17076
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "직사각형 6",
+        "id": "7",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.0,
+            "y": 0.16348
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 1.57819
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "tx1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "lt1"
+          }
+        ]
+      },
+      {
+        "name": "Picture 4",
+        "id": "1028",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": -0.0,
+            "y": 0.49479
+          },
+          "ext": {
+            "cx": 4.93371,
+            "cy": 1.18697
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "FFFFFF"
+          }
+        ]
+      },
+      {
+        "name": "직사각형 11",
+        "id": "12",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": -0.0,
+            "y": 0.0
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 0.49999
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "lt1"
+          }
+        ]
+      },
+      {
+        "name": "날짜 개체 틀 3",
+        "id": "4",
+        "kind": "sp",
+        "placeholder": {
+          "type": "dt",
+          "sz": "half",
+          "idx": "10"
+        },
+        "transform_inches": {},
+        "text": [
+          "2026-09-09"
+        ],
+        "run_properties": [
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "smtClean": "0"
+          }
+        ],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "바닥글 개체 틀 4",
+        "id": "5",
+        "kind": "sp",
+        "placeholder": {
+          "type": "ftr",
+          "sz": "quarter",
+          "idx": "11"
+        },
+        "transform_inches": {},
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "슬라이드 번호 개체 틀 5",
+        "id": "6",
+        "kind": "sp",
+        "placeholder": {
+          "type": "sldNum",
+          "sz": "quarter",
+          "idx": "12"
+        },
+        "transform_inches": {},
+        "text": [
+          "‹#›"
+        ],
+        "run_properties": [
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "smtClean": "0"
+          }
+        ],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "직선 연결선 7",
+        "id": "8",
+        "kind": "cxnSp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.0,
+            "y": 1.68056
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 0.0
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "bg2"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "tx1"
+          }
+        ]
+      },
+      {
+        "name": "Picture 2",
+        "id": "1026",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.85326,
+            "y": -0.84702
+          },
+          "ext": {
+            "cx": 0.48132,
+            "cy": 2.18715
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "FFFFFF"
+          }
+        ]
+      },
+      {
+        "name": "직사각형 12",
+        "id": "13",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": -0.0,
+            "y": 7.4552
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 0.05
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "tx1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "lt1"
+          }
+        ]
+      },
+      {
+        "name": "그림 9",
+        "id": "10",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": -0.0,
+            "y": 0.71205
+          },
+          "ext": {
+            "cx": 3.64584,
+            "cy": 0.7534
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "그림 10",
+        "id": "11",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.34948,
+            "y": 0.78461
+          },
+          "ext": {
+            "cx": 0.61639,
+            "cy": 0.61639
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "TextBox 8",
+        "id": "9",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.42135,
+            "y": 0.11593
+          },
+          "ext": {
+            "cx": 3.22571,
+            "cy": 0.24908
+          }
+        },
+        "text": [
+          "2026",
+          "년 ",
+          "AI ",
+          "챔피언 고급과정 ",
+          "인증자",
+          " ",
+          "1",
+          "차 보수교육"
+        ],
+        "run_properties": [
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0",
+            "err": "1"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          }
+        ],
+        "fonts": [
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          }
+        ],
+        "colors": [
+          {
+            "val": "FFC000"
+          },
+          {
+            "val": "FFC000"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          }
+        ]
+      },
+      {
+        "name": "그림 15",
+        "id": "16",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 10.84532,
+            "y": 0.1013
+          },
+          "ext": {
+            "cx": 0.95237,
+            "cy": 0.26922
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "Picture 4",
+        "id": "18",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 11.92511,
+            "y": 0.04363
+          },
+          "ext": {
+            "cx": 1.22806,
+            "cy": 0.38169
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "FFFFFF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "6_제목 슬라이드",
+    "part": "ppt/slideLayouts/slideLayout5.xml",
+    "shapes": [
+      {
+        "name": "",
+        "id": "1",
+        "kind": "nvGrpSpPr",
+        "placeholder": null,
+        "transform_inches": {},
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "직사각형 1",
+        "id": "2",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.0,
+            "y": 1.68056
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 5.79965
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "tx1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "lt1"
+          }
+        ]
+      },
+      {
+        "name": "그림 2",
+        "id": "3",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": -0.35932,
+            "y": 1.05739
+          },
+          "ext": {
+            "cx": 2.17076,
+            "cy": 2.17076
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "직사각형 6",
+        "id": "7",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.0,
+            "y": 0.16348
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 1.57819
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "tx1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "lt1"
+          }
+        ]
+      },
+      {
+        "name": "Picture 4",
+        "id": "1028",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": -0.0,
+            "y": 0.49479
+          },
+          "ext": {
+            "cx": 4.93371,
+            "cy": 1.18697
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "FFFFFF"
+          }
+        ]
+      },
+      {
+        "name": "직사각형 11",
+        "id": "12",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": -0.0,
+            "y": 0.0
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 0.49999
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "lt1"
+          }
+        ]
+      },
+      {
+        "name": "날짜 개체 틀 3",
+        "id": "4",
+        "kind": "sp",
+        "placeholder": {
+          "type": "dt",
+          "sz": "half",
+          "idx": "10"
+        },
+        "transform_inches": {},
+        "text": [
+          "2026-09-09"
+        ],
+        "run_properties": [
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "smtClean": "0"
+          }
+        ],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "바닥글 개체 틀 4",
+        "id": "5",
+        "kind": "sp",
+        "placeholder": {
+          "type": "ftr",
+          "sz": "quarter",
+          "idx": "11"
+        },
+        "transform_inches": {},
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "슬라이드 번호 개체 틀 5",
+        "id": "6",
+        "kind": "sp",
+        "placeholder": {
+          "type": "sldNum",
+          "sz": "quarter",
+          "idx": "12"
+        },
+        "transform_inches": {},
+        "text": [
+          "‹#›"
+        ],
+        "run_properties": [
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "smtClean": "0"
+          }
+        ],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "직선 연결선 7",
+        "id": "8",
+        "kind": "cxnSp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.0,
+            "y": 1.68056
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 0.0
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "bg2"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "tx1"
+          }
+        ]
+      },
+      {
+        "name": "Picture 2",
+        "id": "1026",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.85326,
+            "y": -0.84702
+          },
+          "ext": {
+            "cx": 0.48132,
+            "cy": 2.18715
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "FFFFFF"
+          }
+        ]
+      },
+      {
+        "name": "직사각형 12",
+        "id": "13",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": -0.0,
+            "y": 7.4552
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 0.05
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "tx1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "lt1"
+          }
+        ]
+      },
+      {
+        "name": "그림 10",
+        "id": "11",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.34948,
+            "y": 0.78461
+          },
+          "ext": {
+            "cx": 0.61639,
+            "cy": 0.61639
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "TextBox 8",
+        "id": "9",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.42135,
+            "y": 0.11593
+          },
+          "ext": {
+            "cx": 3.22571,
+            "cy": 0.24908
+          }
+        },
+        "text": [
+          "2026",
+          "년 ",
+          "AI ",
+          "챔피언 고급과정 ",
+          "인증자",
+          " ",
+          "1",
+          "차 보수교육"
+        ],
+        "run_properties": [
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0",
+            "err": "1"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          }
+        ],
+        "fonts": [
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          }
+        ],
+        "colors": [
+          {
+            "val": "FFC000"
+          },
+          {
+            "val": "FFC000"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          }
+        ]
+      },
+      {
+        "name": "그림 17",
+        "id": "18",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 10.84532,
+            "y": 0.1013
+          },
+          "ext": {
+            "cx": 0.95237,
+            "cy": 0.26922
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "Picture 4",
+        "id": "19",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 11.92511,
+            "y": 0.04363
+          },
+          "ext": {
+            "cx": 1.22806,
+            "cy": 0.38169
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "FFFFFF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "3_사용자 지정 레이아웃",
+    "part": "ppt/slideLayouts/slideLayout6.xml",
+    "shapes": [
+      {
+        "name": "",
+        "id": "1",
+        "kind": "nvGrpSpPr",
+        "placeholder": null,
+        "transform_inches": {},
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "그림 1",
+        "id": "2",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": -0.35932,
+            "y": -0.73916
+          },
+          "ext": {
+            "cx": 2.17076,
+            "cy": 2.17076
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "날짜 개체 틀 2",
+        "id": "3",
+        "kind": "sp",
+        "placeholder": {
+          "type": "dt",
+          "sz": "half",
+          "idx": "10"
+        },
+        "transform_inches": {},
+        "text": [
+          "2026-09-09"
+        ],
+        "run_properties": [
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "smtClean": "0"
+          }
+        ],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "바닥글 개체 틀 3",
+        "id": "4",
+        "kind": "sp",
+        "placeholder": {
+          "type": "ftr",
+          "sz": "quarter",
+          "idx": "11"
+        },
+        "transform_inches": {},
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "슬라이드 번호 개체 틀 4",
+        "id": "5",
+        "kind": "sp",
+        "placeholder": {
+          "type": "sldNum",
+          "sz": "quarter",
+          "idx": "12"
+        },
+        "transform_inches": {},
+        "text": [
+          "‹#›"
+        ],
+        "run_properties": [
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "smtClean": "0"
+          }
+        ],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "TextBox 72",
+        "id": "73",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.42135,
+            "y": 0.11593
+          },
+          "ext": {
+            "cx": 3.22571,
+            "cy": 0.24908
+          }
+        },
+        "text": [
+          "2026",
+          "년 ",
+          "AI ",
+          "챔피언 고급과정 ",
+          "인증자",
+          " ",
+          "1",
+          "차 보수교육"
+        ],
+        "run_properties": [
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0",
+            "err": "1"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          }
+        ],
+        "fonts": [
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          }
+        ],
+        "colors": [
+          {
+            "val": "FFC000"
+          },
+          {
+            "val": "FFC000"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          }
+        ]
+      },
+      {
+        "name": "그림 5",
+        "id": "6",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 10.84532,
+            "y": 0.1013
+          },
+          "ext": {
+            "cx": 0.95237,
+            "cy": 0.26922
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "Picture 4",
+        "id": "7",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 11.92511,
+            "y": 0.04363
+          },
+          "ext": {
+            "cx": 1.22806,
+            "cy": 0.38169
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "FFFFFF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "4_사용자 지정 레이아웃",
+    "part": "ppt/slideLayouts/slideLayout7.xml",
+    "shapes": [
+      {
+        "name": "",
+        "id": "1",
+        "kind": "nvGrpSpPr",
+        "placeholder": null,
+        "transform_inches": {},
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "날짜 개체 틀 2",
+        "id": "3",
+        "kind": "sp",
+        "placeholder": {
+          "type": "dt",
+          "sz": "half",
+          "idx": "10"
+        },
+        "transform_inches": {},
+        "text": [
+          "2026-09-09"
+        ],
+        "run_properties": [
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "smtClean": "0"
+          }
+        ],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "바닥글 개체 틀 3",
+        "id": "4",
+        "kind": "sp",
+        "placeholder": {
+          "type": "ftr",
+          "sz": "quarter",
+          "idx": "11"
+        },
+        "transform_inches": {},
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "슬라이드 번호 개체 틀 4",
+        "id": "5",
+        "kind": "sp",
+        "placeholder": {
+          "type": "sldNum",
+          "sz": "quarter",
+          "idx": "12"
+        },
+        "transform_inches": {},
+        "text": [
+          "‹#›"
+        ],
+        "run_properties": [
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "smtClean": "0"
+          }
+        ],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "TextBox 5",
+        "id": "6",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.42135,
+            "y": 0.11593
+          },
+          "ext": {
+            "cx": 3.22571,
+            "cy": 0.24908
+          }
+        },
+        "text": [
+          "2026",
+          "년 ",
+          "AI ",
+          "챔피언 고급과정 ",
+          "인증자",
+          " ",
+          "1",
+          "차 보수교육"
+        ],
+        "run_properties": [
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0",
+            "err": "1"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          }
+        ],
+        "fonts": [
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          }
+        ],
+        "colors": [
+          {
+            "val": "FFC000"
+          },
+          {
+            "val": "FFC000"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          }
+        ]
+      },
+      {
+        "name": "그림 1",
+        "id": "2",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 10.84532,
+            "y": 0.1013
+          },
+          "ext": {
+            "cx": 0.95237,
+            "cy": 0.26922
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "Picture 4",
+        "id": "8",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 11.92511,
+            "y": 0.04363
+          },
+          "ext": {
+            "cx": 1.22806,
+            "cy": 0.38169
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "FFFFFF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "5_제목 슬라이드",
+    "part": "ppt/slideLayouts/slideLayout8.xml",
+    "shapes": [
+      {
+        "name": "",
+        "id": "1",
+        "kind": "nvGrpSpPr",
+        "placeholder": null,
+        "transform_inches": {},
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "Picture 6",
+        "id": "2",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.073,
+            "y": 1.61124
+          },
+          "ext": {
+            "cx": 5.76934,
+            "cy": 5.90797
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "FFFFFF"
+          },
+          {
+            "val": "bg2"
+          }
+        ]
+      },
+      {
+        "name": "그림 2",
+        "id": "3",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": -0.35932,
+            "y": 1.05739
+          },
+          "ext": {
+            "cx": 2.17076,
+            "cy": 2.17076
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "직사각형 6",
+        "id": "7",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.0,
+            "y": 0.16348
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 1.57819
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "tx1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "lt1"
+          }
+        ]
+      },
+      {
+        "name": "Picture 4",
+        "id": "1028",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": -0.0,
+            "y": 0.49479
+          },
+          "ext": {
+            "cx": 4.93371,
+            "cy": 1.18697
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "FFFFFF"
+          }
+        ]
+      },
+      {
+        "name": "직사각형 11",
+        "id": "12",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": -0.0,
+            "y": 0.0
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 0.49999
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "lt1"
+          }
+        ]
+      },
+      {
+        "name": "날짜 개체 틀 3",
+        "id": "4",
+        "kind": "sp",
+        "placeholder": {
+          "type": "dt",
+          "sz": "half",
+          "idx": "10"
+        },
+        "transform_inches": {},
+        "text": [
+          "2026-09-09"
+        ],
+        "run_properties": [
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "smtClean": "0"
+          }
+        ],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "직선 연결선 7",
+        "id": "8",
+        "kind": "cxnSp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.0,
+            "y": 1.68056
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 0.0
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "bg2"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "tx1"
+          }
+        ]
+      },
+      {
+        "name": "Picture 2",
+        "id": "1026",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.85326,
+            "y": -0.84702
+          },
+          "ext": {
+            "cx": 0.48132,
+            "cy": 2.18715
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "FFFFFF"
+          }
+        ]
+      },
+      {
+        "name": "직사각형 12",
+        "id": "13",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": -0.0,
+            "y": 7.4552
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 0.05
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "tx1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "lt1"
+          }
+        ]
+      },
+      {
+        "name": "TextBox 4",
+        "id": "5",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.42135,
+            "y": 0.11593
+          },
+          "ext": {
+            "cx": 3.22571,
+            "cy": 0.24908
+          }
+        },
+        "text": [
+          "2026",
+          "년 ",
+          "AI ",
+          "챔피언 고급과정 ",
+          "인증자",
+          " ",
+          "1",
+          "차 보수교육"
+        ],
+        "run_properties": [
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0",
+            "err": "1"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          }
+        ],
+        "fonts": [
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          }
+        ],
+        "colors": [
+          {
+            "val": "FFC000"
+          },
+          {
+            "val": "FFC000"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "1_Title and Content",
+    "part": "ppt/slideLayouts/slideLayout9.xml",
+    "shapes": [
+      {
+        "name": "",
+        "id": "1",
+        "kind": "nvGrpSpPr",
+        "placeholder": null,
+        "transform_inches": {},
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "Holder 5",
+        "id": "5",
+        "kind": "sp",
+        "placeholder": {
+          "type": "dt",
+          "sz": "half",
+          "idx": "6"
+        },
+        "transform_inches": {},
+        "text": [
+          "9/9/2026"
+        ],
+        "run_properties": [
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "smtClean": "0"
+          }
+        ],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "tx1"
+          }
+        ]
+      },
+      {
+        "name": "object 16",
+        "id": "8",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.0,
+            "y": 7.18916
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 0.31257
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "tx1"
+          }
+        ]
+      },
+      {
+        "name": "사각형: 둥근 위쪽 모서리 1",
+        "id": "2",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.48958,
+            "y": 1.06934
+          },
+          "ext": {
+            "cx": 12.21112,
+            "cy": 6.06608
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "lt1"
+          }
+        ]
+      },
+      {
+        "name": "직사각형 10",
+        "id": "11",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 0.49999
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "lt1"
+          }
+        ]
+      },
+      {
+        "name": "TextBox 9",
+        "id": "10",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.42135,
+            "y": 0.12041
+          },
+          "ext": {
+            "cx": 3.22571,
+            "cy": 0.24908
+          }
+        },
+        "text": [
+          "2026",
+          "년 ",
+          "AI ",
+          "챔피언 고급과정 ",
+          "인증자",
+          " ",
+          "1",
+          "차 보수교육"
+        ],
+        "run_properties": [
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0",
+            "err": "1"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          }
+        ],
+        "fonts": [
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          }
+        ],
+        "colors": [
+          {
+            "val": "FFC000"
+          },
+          {
+            "val": "FFC000"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Epilogue1",
+    "part": "ppt/slideLayouts/slideLayout10.xml",
+    "shapes": [
+      {
+        "name": "",
+        "id": "1",
+        "kind": "nvGrpSpPr",
+        "placeholder": null,
+        "transform_inches": {},
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "그림 6",
+        "id": "7",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": -0.35932,
+            "y": 0.09283
+          },
+          "ext": {
+            "cx": 2.17076,
+            "cy": 2.17076
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "직사각형 18",
+        "id": "19",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.0,
+            "y": 0.12721
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 0.44197
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "lt1"
+          }
+        ]
+      },
+      {
+        "name": "날짜 개체 틀 2",
+        "id": "3",
+        "kind": "sp",
+        "placeholder": {
+          "type": "dt",
+          "sz": "half",
+          "idx": "10"
+        },
+        "transform_inches": {},
+        "text": [
+          "2026-09-09"
+        ],
+        "run_properties": [
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "smtClean": "0"
+          }
+        ],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "바닥글 개체 틀 3",
+        "id": "4",
+        "kind": "sp",
+        "placeholder": {
+          "type": "ftr",
+          "sz": "quarter",
+          "idx": "11"
+        },
+        "transform_inches": {},
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "슬라이드 번호 개체 틀 4",
+        "id": "5",
+        "kind": "sp",
+        "placeholder": {
+          "type": "sldNum",
+          "sz": "quarter",
+          "idx": "12"
+        },
+        "transform_inches": {},
+        "text": [
+          "‹#›"
+        ],
+        "run_properties": [
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "smtClean": "0"
+          }
+        ],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "직사각형 11",
+        "id": "12",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.0,
+            "y": 7.35069
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 0.14931
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "tx1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "lt1"
+          }
+        ]
+      },
+      {
+        "name": "직사각형 12",
+        "id": "13",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.0,
+            "y": -0.0221
+          },
+          "ext": {
+            "cx": 13.33333,
+            "cy": 0.14931
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "accent1"
+          },
+          {
+            "val": "lt1"
+          }
+        ]
+      },
+      {
+        "name": "TextBox 1",
+        "id": "2",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.42135,
+            "y": 0.21301
+          },
+          "ext": {
+            "cx": 3.22571,
+            "cy": 0.24908
+          }
+        },
+        "text": [
+          "2026",
+          "년 ",
+          "AI ",
+          "챔피언 고급과정 ",
+          "인증자",
+          " ",
+          "1",
+          "차 보수교육"
+        ],
+        "run_properties": [
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0",
+            "err": "1"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1100",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1100",
+            "dirty": "0"
+          }
+        ],
+        "fonts": [
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          },
+          {
+            "typeface": "페이퍼로지 8 ExtraBold"
+          }
+        ],
+        "colors": [
+          {
+            "val": "FFC000"
+          },
+          {
+            "val": "FFC000"
+          },
+          {
+            "val": "tx1"
+          },
+          {
+            "val": "tx1"
+          },
+          {
+            "val": "tx1"
+          },
+          {
+            "val": "tx1"
+          },
+          {
+            "val": "tx1"
+          },
+          {
+            "val": "tx1"
+          },
+          {
+            "val": "tx1"
+          }
+        ]
+      },
+      {
+        "name": "그림 5",
+        "id": "6",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 10.84532,
+            "y": 0.20315
+          },
+          "ext": {
+            "cx": 0.95237,
+            "cy": 0.26922
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "Picture 4",
+        "id": "8",
+        "kind": "pic",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 11.92511,
+            "y": 0.14548
+          },
+          "ext": {
+            "cx": 1.22806,
+            "cy": 0.38169
+          }
+        },
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": [
+          {
+            "val": "FFFFFF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "제목 및 내용",
+    "part": "ppt/slideLayouts/slideLayout11.xml",
+    "shapes": [
+      {
+        "name": "",
+        "id": "1",
+        "kind": "nvGrpSpPr",
+        "placeholder": null,
+        "transform_inches": {},
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "TextBox 6",
+        "id": "7",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.68736,
+            "y": 0.32177
+          },
+          "ext": {
+            "cx": 0.87864,
+            "cy": 0.27769
+          }
+        },
+        "text": [
+          "혁신의 누명"
+        ],
+        "run_properties": [
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1050",
+            "b": "0",
+            "i": "0",
+            "kern": "1200"
+          }
+        ],
+        "fonts": [
+          {
+            "typeface": "Paperlogy 5 Medium",
+            "pitchFamily": "2",
+            "charset": "-127"
+          },
+          {
+            "typeface": "Paperlogy 5 Medium",
+            "pitchFamily": "2",
+            "charset": "-127"
+          }
+        ],
+        "colors": [
+          {
+            "val": "bg2"
+          },
+          {
+            "val": "bg1"
+          }
+        ]
+      },
+      {
+        "name": "TextBox 7",
+        "id": "8",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 1.566,
+            "y": 0.31325
+          },
+          "ext": {
+            "cx": 2.10578,
+            "cy": 0.2861
+          }
+        },
+        "text": [
+          "리버스엔지니어링과 ",
+          "디자인싱킹"
+        ],
+        "run_properties": [
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1050",
+            "b": "0",
+            "i": "0",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1050",
+            "b": "0",
+            "i": "0",
+            "dirty": "0",
+            "err": "1"
+          }
+        ],
+        "fonts": [
+          {
+            "typeface": "Paperlogy 5 Medium",
+            "pitchFamily": "2",
+            "charset": "-127"
+          },
+          {
+            "typeface": "Paperlogy 5 Medium",
+            "pitchFamily": "2",
+            "charset": "-127"
+          },
+          {
+            "typeface": "Paperlogy 5 Medium",
+            "pitchFamily": "2",
+            "charset": "-127"
+          },
+          {
+            "typeface": "Paperlogy 5 Medium",
+            "pitchFamily": "2",
+            "charset": "-127"
+          },
+          {
+            "typeface": "Paperlogy 5 Medium",
+            "pitchFamily": "2",
+            "charset": "-127"
+          },
+          {
+            "typeface": "Paperlogy 5 Medium",
+            "pitchFamily": "2",
+            "charset": "-127"
+          }
+        ],
+        "colors": [
+          {
+            "val": "bg2"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg2"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg2"
+          },
+          {
+            "val": "bg1"
+          }
+        ]
+      },
+      {
+        "name": "TextBox 8",
+        "id": "9",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 10.53009,
+            "y": 0.31325
+          },
+          "ext": {
+            "cx": 2.42133,
+            "cy": 0.27769
+          }
+        },
+        "text": [
+          "AI",
+          "챔피언 전문인재 보수교육 ",
+          "in Jeju"
+        ],
+        "run_properties": [
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1050",
+            "b": "0",
+            "i": "0",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1050",
+            "b": "0",
+            "i": "0",
+            "dirty": "0"
+          },
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1050",
+            "b": "0",
+            "i": "0",
+            "dirty": "0"
+          }
+        ],
+        "fonts": [
+          {
+            "typeface": "Paperlogy 5 Medium",
+            "pitchFamily": "2",
+            "charset": "-127"
+          },
+          {
+            "typeface": "Paperlogy 5 Medium",
+            "pitchFamily": "2",
+            "charset": "-127"
+          },
+          {
+            "typeface": "Paperlogy 5 Medium",
+            "pitchFamily": "2",
+            "charset": "-127"
+          },
+          {
+            "typeface": "Paperlogy 5 Medium",
+            "pitchFamily": "2",
+            "charset": "-127"
+          },
+          {
+            "typeface": "Paperlogy 5 Medium",
+            "pitchFamily": "2",
+            "charset": "-127"
+          },
+          {
+            "typeface": "Paperlogy 5 Medium",
+            "pitchFamily": "2",
+            "charset": "-127"
+          },
+          {
+            "typeface": "Paperlogy 5 Medium",
+            "pitchFamily": "2",
+            "charset": "-127"
+          },
+          {
+            "typeface": "Paperlogy 5 Medium",
+            "pitchFamily": "2",
+            "charset": "-127"
+          }
+        ],
+        "colors": [
+          {
+            "val": "bg2"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg2"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg2"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg2"
+          },
+          {
+            "val": "bg1"
+          }
+        ]
+      },
+      {
+        "name": "TextBox 9",
+        "id": "10",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 0.68736,
+            "y": 6.88373
+          },
+          "ext": {
+            "cx": 1.11355,
+            "cy": 0.27769
+          }
+        },
+        "text": [
+          "2026-06-05"
+        ],
+        "run_properties": [
+          {
+            "lang": "en-US",
+            "altLang": "ko-KR",
+            "sz": "1050",
+            "b": "0",
+            "i": "0",
+            "kern": "1200"
+          }
+        ],
+        "fonts": [
+          {
+            "typeface": "Paperlogy 5 Medium",
+            "pitchFamily": "2",
+            "charset": "-127"
+          },
+          {
+            "typeface": "Paperlogy 5 Medium",
+            "pitchFamily": "2",
+            "charset": "-127"
+          },
+          {
+            "typeface": "Paperlogy 5 Medium",
+            "pitchFamily": "2",
+            "charset": "-127"
+          },
+          {
+            "typeface": "Paperlogy 5 Medium",
+            "pitchFamily": "2",
+            "charset": "-127"
+          }
+        ],
+        "colors": [
+          {
+            "val": "bg2"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg2"
+          },
+          {
+            "val": "bg1"
+          }
+        ]
+      },
+      {
+        "name": "TextBox 10",
+        "id": "11",
+        "kind": "sp",
+        "placeholder": null,
+        "transform_inches": {
+          "off": {
+            "x": 10.41515,
+            "y": 6.87521
+          },
+          "ext": {
+            "cx": 2.60015,
+            "cy": 0.27769
+          }
+        },
+        "text": [
+          "한국데이터사이언티스트협회",
+          " ",
+          "김태유",
+          " 박사"
+        ],
+        "run_properties": [
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1050",
+            "b": "0",
+            "i": "0",
+            "dirty": "0",
+            "err": "1"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1050",
+            "b": "0",
+            "i": "0",
+            "dirty": "0"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1050",
+            "b": "0",
+            "i": "0",
+            "dirty": "0",
+            "err": "1"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "sz": "1050",
+            "b": "0",
+            "i": "0",
+            "dirty": "0"
+          }
+        ],
+        "fonts": [
+          {
+            "typeface": "Paperlogy 5 Medium",
+            "pitchFamily": "2",
+            "charset": "-127"
+          },
+          {
+            "typeface": "Paperlogy 5 Medium",
+            "pitchFamily": "2",
+            "charset": "-127"
+          },
+          {
+            "typeface": "Paperlogy 5 Medium",
+            "pitchFamily": "2",
+            "charset": "-127"
+          },
+          {
+            "typeface": "Paperlogy 5 Medium",
+            "pitchFamily": "2",
+            "charset": "-127"
+          },
+          {
+            "typeface": "Paperlogy 5 Medium",
+            "pitchFamily": "2",
+            "charset": "-127"
+          },
+          {
+            "typeface": "Paperlogy 5 Medium",
+            "pitchFamily": "2",
+            "charset": "-127"
+          },
+          {
+            "typeface": "Paperlogy 5 Medium",
+            "pitchFamily": "2",
+            "charset": "-127"
+          },
+          {
+            "typeface": "Paperlogy 5 Medium",
+            "pitchFamily": "2",
+            "charset": "-127"
+          }
+        ],
+        "colors": [
+          {
+            "val": "bg2"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg2"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg2"
+          },
+          {
+            "val": "bg1"
+          },
+          {
+            "val": "bg2"
+          },
+          {
+            "val": "bg1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "빈 화면",
+    "part": "ppt/slideLayouts/slideLayout12.xml",
+    "shapes": [
+      {
+        "name": "",
+        "id": "1",
+        "kind": "nvGrpSpPr",
+        "placeholder": null,
+        "transform_inches": {},
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "날짜 개체 틀 1",
+        "id": "2",
+        "kind": "sp",
+        "placeholder": {
+          "type": "dt",
+          "sz": "half",
+          "idx": "10"
+        },
+        "transform_inches": {},
+        "text": [
+          "2026-09-09"
+        ],
+        "run_properties": [
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "smtClean": "0"
+          }
+        ],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "바닥글 개체 틀 2",
+        "id": "3",
+        "kind": "sp",
+        "placeholder": {
+          "type": "ftr",
+          "sz": "quarter",
+          "idx": "11"
+        },
+        "transform_inches": {},
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "슬라이드 번호 개체 틀 3",
+        "id": "4",
+        "kind": "sp",
+        "placeholder": {
+          "type": "sldNum",
+          "sz": "quarter",
+          "idx": "12"
+        },
+        "transform_inches": {},
+        "text": [
+          "‹#›"
+        ],
+        "run_properties": [
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "smtClean": "0"
+          }
+        ],
+        "fonts": [],
+        "colors": []
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "1_제목 및 내용",
+    "part": "ppt/slideLayouts/slideLayout13.xml",
+    "shapes": [
+      {
+        "name": "",
+        "id": "1",
+        "kind": "nvGrpSpPr",
+        "placeholder": null,
+        "transform_inches": {},
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "제목 1",
+        "id": "2",
+        "kind": "sp",
+        "placeholder": {
+          "type": "title"
+        },
+        "transform_inches": {},
+        "text": [
+          "마스터 제목 스타일 편집"
+        ],
+        "run_properties": [
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US"
+          }
+        ],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "내용 개체 틀 2",
+        "id": "3",
+        "kind": "sp",
+        "placeholder": {
+          "idx": "1"
+        },
+        "transform_inches": {},
+        "text": [
+          "마스터 텍스트 스타일을 편집하려면 클릭",
+          "두 번째 수준",
+          "세 번째 수준",
+          "네 번째 수준",
+          "다섯 번째 수준"
+        ],
+        "run_properties": [
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US"
+          },
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US"
+          }
+        ],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "날짜 개체 틀 3",
+        "id": "4",
+        "kind": "sp",
+        "placeholder": {
+          "type": "dt",
+          "sz": "half",
+          "idx": "10"
+        },
+        "transform_inches": {},
+        "text": [
+          "2026-09-09"
+        ],
+        "run_properties": [
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "smtClean": "0"
+          }
+        ],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "바닥글 개체 틀 4",
+        "id": "5",
+        "kind": "sp",
+        "placeholder": {
+          "type": "ftr",
+          "sz": "quarter",
+          "idx": "11"
+        },
+        "transform_inches": {},
+        "text": [],
+        "run_properties": [],
+        "fonts": [],
+        "colors": []
+      },
+      {
+        "name": "슬라이드 번호 개체 틀 5",
+        "id": "6",
+        "kind": "sp",
+        "placeholder": {
+          "type": "sldNum",
+          "sz": "quarter",
+          "idx": "12"
+        },
+        "transform_inches": {},
+        "text": [
+          "‹#›"
+        ],
+        "run_properties": [
+          {
+            "lang": "ko-KR",
+            "altLang": "en-US",
+            "smtClean": "0"
+          }
+        ],
+        "fonts": [],
+        "colors": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "name": "cdsa-lecture-public",
+  "interface": {
+    "displayName": "CDSA Lecture"
+  },
+  "plugins": [
+    {
+      "name": "cdsa-lecture",
+      "source": {
+        "source": "local",
+        "path": "./plugins/cdsa-lecture"
+      },
+      "policy": {
+        "installation": "AVAILABLE"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
