@@ -10,11 +10,11 @@ CDSA Lecture is a Codex plugin for producing editable PowerPoint lecture decks w
 - editable object reuse, cover, logo, structure-check and PowerPoint-render tools
 - public Codex plugin marketplace metadata
 
-The Git repository excludes the private 78-deck corpus and the CDSA lecture knowledge base. They are not required to run the engine. The release may also provide a separately named `original-full` archive that mirrors the author's installed plugin, including that data; review its contents and source rights before reuse.
+The Git repository excludes the private 78-deck corpus and the CDSA lecture knowledge base. They are not required to run the engine. A full original archive can be created locally when needed, but it is not published with this repository.
 
 ## Install
 
-Clone the repository or download the ZIP from GitHub Releases. The installable plugin is in `plugins/cdsa-lecture`; the repository also contains `.agents/plugins/marketplace.json` for Codex plugin discovery.
+Clone or download the repository. The installable plugin is in `plugins/cdsa-lecture`; the repository also contains `.agents/plugins/marketplace.json` for Codex plugin discovery.
 
 ```powershell
 git clone https://github.com/kyj2294/cdsa-lecture.git

@@ -2,7 +2,7 @@
 
 ## Distribution
 
-- The Git repository does not bundle the private 78-deck corpus or the CDSA knowledge base. Corpus search and source-slide reuse require a user-built database. A separately named `original-full` release archive, when present, contains the author's original data and must be reviewed independently before redistribution or reuse.
+- The Git repository does not bundle the private 78-deck corpus or the CDSA knowledge base. Corpus search and source-slide reuse require a user-built database. Any full original archive is kept locally and must be reviewed independently before redistribution or reuse.
 - No open-source license has been granted in this release. The repository is publicly downloadable, but copyright remains with the respective owners. A formal license should be added before accepting external redistribution or contributions.
 - The bundled CDSA master has embedded font binaries removed. PowerPoint may substitute fonts that are not installed on the user's computer, so spacing can change. Always render and inspect the final deck on the delivery machine.
 
